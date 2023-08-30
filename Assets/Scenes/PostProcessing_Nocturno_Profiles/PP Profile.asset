@@ -31,7 +31,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a34fa72bd4185749832024e9c8010bf, type: 3}
   m_Name: ScreenSpaceReflections
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   enabled:
     overrideState: 1
     value: 1
@@ -68,7 +68,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40b924e2dad56384a8df2a1e111bb675, type: 3}
   m_Name: Vignette
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   enabled:
     overrideState: 1
     value: 1
@@ -171,10 +171,10 @@ MonoBehaviour:
     value: 0
   postExposure:
     overrideState: 1
-    value: 2.41
+    value: 3.67
   contrast:
     overrideState: 1
-    value: 32.39
+    value: 86.21
   mixerRedOutRedIn:
     overrideState: 0
     value: 100
@@ -1432,7 +1432,7 @@ MonoBehaviour:
     value: {x: 69.279564, y: 99}
   minLuminance:
     overrideState: 1
-    value: 3.24
+    value: 4.56
   maxLuminance:
     overrideState: 1
     value: 9
