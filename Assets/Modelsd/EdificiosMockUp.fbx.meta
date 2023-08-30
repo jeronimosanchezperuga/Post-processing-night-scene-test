@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: be35896b11203884caa2778d6ad44d22
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: asfalto
+    100002: Edificio ventanas
+    100004: EdificioAmarillo
+    100006: EdificioLadrillo
+    100008: //RootNode
+    100010: TexturesCom_BuildingsHouseOld0311_1_S
+    100012: Vereda
+    400000: asfalto
+    400002: Edificio ventanas
+    400004: EdificioAmarillo
+    400006: EdificioLadrillo
+    400008: //RootNode
+    400010: TexturesCom_BuildingsHouseOld0311_1_S
+    400012: Vereda
+    2100000: TexturesCom_BuildingsHouseOld0013_1_S
+    2100002: vereda
+    2100004: TexturesCom_BuildingsHouseOld0245_S
+    2100006: TexturesCom_BuildingsHouseOld0157_S
+    2100008: TexturesCom_Asphalt10_2x2_1K_albedo
+    2100010: TexturesCom_BuildingsHouseOld0311_1_S
+    2300000: asfalto
+    2300002: Edificio ventanas
+    2300004: EdificioAmarillo
+    2300006: EdificioLadrillo
+    2300008: TexturesCom_BuildingsHouseOld0311_1_S
+    2300010: Vereda
+    3300000: asfalto
+    3300002: Edificio ventanas
+    3300004: EdificioAmarillo
+    3300006: EdificioLadrillo
+    3300008: TexturesCom_BuildingsHouseOld0311_1_S
+    3300010: Vereda
+    4300000: EdificioAmarillo
+    4300002: Vereda
+    4300004: Edificio ventanas
+    4300006: EdificioLadrillo
+    4300008: asfalto
+    4300010: TexturesCom_BuildingsHouseOld0311_1_S
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Asphalt10_2x2_1K_albedo
+    second: {fileID: 2100000, guid: ce883cef173655b4591f4cc5c935ea97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_BuildingsHouseOld0013_1_S
+    second: {fileID: 2100000, guid: 842b148ddeafc6c42b209caf51fd3b87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_BuildingsHouseOld0157_S
+    second: {fileID: 2100000, guid: 5d5457ac75628bd4992812b51a01b58b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_BuildingsHouseOld0245_S
+    second: {fileID: 2100000, guid: 0a985e3ceb02040438db23fa322fd9fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_BuildingsHouseOld0311_1_S
+    second: {fileID: 2100000, guid: e083ff9853c275b478737fa87b98d343, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vereda
+    second: {fileID: 2100000, guid: 6f88dc9706e01794595d369612310fc0, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Asphalt10_2x2_1K_albedo
+    second: {fileID: 2800000, guid: a571c9d45acba7d428fbeec178bafd74, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_BuildingsHouseOld0013_1_S
+    second: {fileID: 2800000, guid: 6c7b092259ba13443ad5b323fd0b86ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_BuildingsHouseOld0157_S
+    second: {fileID: 2800000, guid: fa98a2ae43a5f974b921ccabe2b5a9db, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_BuildingsHouseOld0245_S
+    second: {fileID: 2800000, guid: 03b405116991d9441a1008d8ae0ccb5e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_BuildingsHouseOld0311_1_S
+    second: {fileID: 2800000, guid: c9b7a637b36e2c64b8cb448c2bb08021, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_FloorsRegular0301_1_seamless_S
+    second: {fileID: 2800000, guid: ec544c0253085294ba9f3b9634aaed60, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
